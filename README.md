@@ -65,7 +65,7 @@ A compilation of professional and technical certifications mapping out continuou
 
 * 🛡️ **Advanced Data Analytics Professional Certificate** | Google *(In Progress)*
 * 📊 **Introduction to SQL** | Sololearn | *Issued: Nov 2023* 
-  - Verification ID: `CC-I0Y0NMOI` | 👉 **[View Certificate Image](./certificates/sololearn_sql.png)**
+Verification ID: `CC-I0Y0NMOI` | 👉 **[View Certificate Image](./certificates/sololearn_sql.png)**
 
 ---
 
