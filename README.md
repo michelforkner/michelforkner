@@ -19,6 +19,8 @@
 - **The Impact:** Remediated an operational master dataset of **631 venture capital/private equity transactions across 49 firms** to ensure 100% data integrity for regulatory repapering initiatives.
 - **Key Discovery:** Identified intense capital gravity, proving that **83% of all capital** flowed into just two regional nations (61.7% Israel, 21.3% UAE), with a heavy **60.3% structural bias toward the Technology sector**.
 
+- 👉 **[Click Here to Open the Full Slide Presentation (PDF)](./Middle%20East%20%20PE%20Investment.pdf)**
+
 #### 🗄️ Relational Database Architecture & Ingestion Engineering
 Managed a three-tier relational schema to map out institutional capital lifecycles. Executed data operations across the following master entities and database tabs:
 
