@@ -44,7 +44,7 @@ Managed a three-tier relational schema to map out institutional capital lifecycl
 *Academic Project | CUNY Baruch College*
 - **The Project:** Engineered an end-to-end automated data pipeline utilizing Python to programmatically extract, clean, and map nested JSON movie metadata from the New York Times API.
 - **The Impact:** Transformed unstructured API web responses into clean, tabular schemas and automated CSV exports for rapid business intelligence reporting.
-
+- 👉 **[Click Here to View the Automated Media Data Pipeline Script](./media_data_pipeline-checkpoint.ipynb)**
 ###  3. Predictive Health Analytics & Exploratory Data Analysis
 *Academic Project | CUNY Baruch College*
 - **The Project:** Executed advanced Exploratory Data Analysis (EDA) on dense medical datasets using Python, Seaborn, and Matplotlib.
