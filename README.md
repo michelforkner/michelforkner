@@ -59,6 +59,16 @@ Managed a three-tier relational schema to map out institutional capital lifecycl
 
 ---
 
+
+## 📜 Professional Certifications & Credentials
+A compilation of professional and technical certifications mapping out continuous learning in data engineering, analytics workflows, and database management:
+
+* 🛡️ **Advanced Data Analytics Professional Certificate** | Google *(In Progress)*
+* 📊 **Introduction to SQL** | Sololearn | *Issued: Nov 2023* 
+  - Verification ID: `CC-I0Y0NMOI` | 👉 **[View Certificate Image](./certificates/sololearn_sql.png)**
+
+---
+
 ## 📫 Connect with Me
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/michel-ilah-dein-forkner-24126721b/)
 - **Email:** ilahdeinmichel@gmail.com
