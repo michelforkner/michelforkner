@@ -11,9 +11,9 @@
 
 ---
 
-## 🚀 Featured Analytics Projects
+##  Featured Analytics Projects
 
-### 📊 1. 10-Year Regional Private Equity Investment Analysis (2014–2023)
+###  1. 10-Year Regional Private Equity Investment Analysis (2014–2023)
 *Completed under LSEG Data and Analytics*
 - **The Project:** Analyzed a decade of macroeconomic and private equity deal flows to isolate capital gravity, country concentration, and sector dominance across a volatile multi-year horizon.
 - **The Impact:** Remediated an operational master dataset of **631 venture capital/private equity transactions across 49 firms** to ensure 100% data integrity for regulatory repapering initiatives.
@@ -21,7 +21,7 @@
 
 👉 **[Click Here to Open the Full Slide Presentation (PDF)](./Middle%20East%20%20PE%20Investment.pdf)**
 
-#### 🗄️ Relational Database Architecture & Ingestion Engineering
+####  Relational Database Architecture & Ingestion Engineering
 Managed a three-tier relational schema to map out institutional capital lifecycles. Executed data operations across the following master entities and database tabs:
 
 1. **Private Equity Firms (Entity Layer):**
@@ -40,19 +40,19 @@ Managed a three-tier relational schema to map out institutional capital lifecycl
 - 👉 **[Click Here to View the Operational Transaction Audit SQL Script](./transaction_audit_cleansing.sql)**
 - 👉 **[Click Here to View the Ingestion Pipeline SQL Script](./lseg_pipeline_ingestion.sql)**
 
-### 🐍 2. Automated Media Data Pipeline Engineering (Python)
+###  2. Automated Media Data Pipeline Engineering (Python)
 *Academic Project | CUNY Baruch College*
 - **The Project:** Engineered an end-to-end automated data pipeline utilizing Python to programmatically extract, clean, and map nested JSON movie metadata from the New York Times API.
 - **The Impact:** Transformed unstructured API web responses into clean, tabular schemas and automated CSV exports for rapid business intelligence reporting.
 
-### 🏥 3. Predictive Health Analytics & Exploratory Data Analysis
+###  3. Predictive Health Analytics & Exploratory Data Analysis
 *Academic Project | CUNY Baruch College*
 - **The Project:** Executed advanced Exploratory Data Analysis (EDA) on dense medical datasets using Python, Seaborn, and Matplotlib.
 - **The Impact:** Engineered demographic feature bins and developed structured categorical visualizations to translate statistical health indicators into clear risk-mitigation data.
-
+**[Click Here to View the Predictive Health Analytics Script](./health_predictive_analysis-checkpoint.ipynb)**
 ---
 
-## 📈 Educational Foundation
+##  Educational Foundation
 - **M.S. in Business Analytics** | CUNY Baruch College (Zicklin School of Business) | *Expected Graduation: 2028*
 - **B.S. in Accounting** | University of St. La Salle | *Concluded: 2023*
   - **Undergraduate Thesis:** Programmatically evaluated information security management compliance frameworks across 78 healthcare providers using Python dataset modeling.
@@ -60,7 +60,7 @@ Managed a three-tier relational schema to map out institutional capital lifecycl
 ---
 
 
-## 📜 Professional Certifications & Credentials
+##  Professional Certifications & Credentials
 A compilation of professional and technical certifications mapping out continuous learning in data engineering, analytics workflows, and database management:
 
 * 🛡️ **Advanced Data Analytics Professional Certificate** | Google *(In Progress)*
