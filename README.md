@@ -17,8 +17,26 @@
 *Completed under LSEG Data and Analytics*
 - **The Project:** Analyzed a decade of macroeconomic and private equity deal flows to isolate capital gravity, country concentration, and sector dominance across a volatile multi-year horizon.
 - **The Impact:** Remediated an operational master dataset of **631 venture capital/private equity transactions across 49 firms** to ensure 100% data integrity for regulatory repapering initiatives.
-- **Key Discovery:** Identified intense capital gravity, proving that **83% of all capital** flowed into just two regional nations (61.7% Israel, 21.3% UAE), with a heavy **60.3% structural bias toward the Technology sector**
-- 👉 **[Click Here to View the SQL Extraction Scripts](./regional_pe_data_extraction.sql)**
+- **Key Discovery:** Identified intense capital gravity, proving that **83% of all capital** flowed into just two regional nations (61.7% Israel, 21.3% UAE), with a heavy **60.3% structural bias toward the Technology sector**.
+
+#### 🗄️ Relational Database Architecture & Ingestion Engineering
+Managed a three-tier relational schema to map out institutional capital lifecycles. Executed data operations across the following master entities and database tabs:
+
+1. **Private Equity Firms (Entity Layer):**
+   - Engineered data-creation protocols for custom structural classifications including Venture Capital (minority stakes, short-term horizons), Generalist PE (cross-functional multi-asset strategies), Buyout (majority stakes >= 50%), Fund of Funds, and Secondary Funds.
+2. **Private Equity Funds (Capital Pools Layer):**
+   - Formulated data pipelines to track critical operational fund fields, including Fund Stage, Fundraise Status, Fund Year, and Capital Commitment Targets.
+   - Executed programmatic data-retrieval workflows utilizing the SEC EDGAR network to monitor, parse, and process Form RegD and D/A filings for compliance verification.
+3. **Investments & Buyout Rounds (Transaction Layer):**
+   - Orchestrated updates across twenty-one primary database points within the Transactions/Rounds tab.
+   - Enforced data integrity validation rules for cross-sectional transaction inputs including:
+     - Transaction Values, Security Types, and Financing Stages
+     - Debt-to-Equity financing allocations (quantified in thousands USD)
+     - Deal Source tracing, Tranche structures, and Transaction execution status
+
+- 👉 **[Click Here to View the Regional Aggregation SQL Script](./regional_pe_data_extraction.sql)**
+- 👉 **[Click Here to View the Operational Transaction Audit SQL Script](./transaction_audit_cleansing.sql)**
+- 👉 **[Click Here to View the Ingestion Pipeline SQL Script](./lseg_pipeline_ingestion.sql)**
 
 ### 🐍 2. Automated Media Data Pipeline Engineering (Python)
 *Academic Project | CUNY Baruch College*
@@ -35,10 +53,10 @@
 ## 📈 Educational Foundation
 - **M.S. in Business Analytics** | CUNY Baruch College (Zicklin School of Business) | *Expected Graduation: 2028*
 - **B.S. in Accounting** | University of St. La Salle | *Concluded: 2023*
-  - Undergraduate Thesis: Programmatically evaluated information security management compliance frameworks across 78 healthcare providers using Python dataset modeling.
+  - **Undergraduate Thesis:** Programmatically evaluated information security management compliance frameworks across 78 healthcare providers using Python dataset modeling.
 
 ---
 
 ## 📫 Connect with Me
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/michel-ilah-dein-forkner-24126721b/)
-- **Email:** ilahdeinmichel@gmail.com 
+- **Email:** ilahdeinmichel@gmail.com
