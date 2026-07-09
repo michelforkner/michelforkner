@@ -49,7 +49,7 @@ Managed a three-tier relational schema to map out institutional capital lifecycl
 *Academic Project | CUNY Baruch College*
 - **The Project:** Executed advanced Exploratory Data Analysis (EDA) on dense medical datasets using Python, Seaborn, and Matplotlib.
 - **The Impact:** Engineered demographic feature bins and developed structured categorical visualizations to translate statistical health indicators into clear risk-mitigation data.
-**[Click Here to View the Predictive Health Analytics Script](./health_predictive_analysis-checkpoint.ipynb)**
+- 👉**[Click Here to View the Predictive Health Analytics Script](./health_predictive_analysis-checkpoint.ipynb)**
 ---
 
 ##  Educational Foundation
